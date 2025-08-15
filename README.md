@@ -93,7 +93,7 @@ Future versions will be ML-enhanced for smarter, context-aware completions.
 - Shell integration
 
 ### Step 2 — Local LLM integration
-- Qwen2.5, StarCoder2, etc.
+- MiniCPM, Qwen2.5, StarCoder2, etc.
 - Intelligent predictions
 - Context-aware suggestions
 
